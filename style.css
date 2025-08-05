@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #fff8f0;
+    color: rgb(51, 51, 51);
+    line-height: 2;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ff704d;
+    color: white;
+    padding: 1.5rem;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+h2 {
+    color: #ff704d;
+    border-bottom: 2px solid #ff704d;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #eee;
+    margin-top: 20px;
+}
